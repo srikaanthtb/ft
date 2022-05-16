@@ -1,0 +1,21 @@
+{
+  "name": "ft",
+  "version": "1.0.0",
+  "description": "a npm package to request multiple urls",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sri",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.1"
+  }
+}
